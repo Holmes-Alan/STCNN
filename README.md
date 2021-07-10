@@ -34,7 +34,11 @@ The paper can be found in [IEEE](https://ieeexplore.ieee.org/abstract/document/8
 # Complete Architecture
 The complete architecture is shown as follows,
 
-![structure](/figures/fig3.png)
+![structure](/figure/network.png)
+
+Proposed Spatial Convolution Packing (SCP) scheme.
+
+![scp](/figure/scp.PNG)
 
 
 # Implementation
@@ -46,14 +50,18 @@ For STCNN
 
 run ST-CNN_test.ipynv
 
-# Visual Comparison
+# Quantitative and qualitative Comparison
 
 ## compare with state-of-the-art
-This figure shows the comparison among different face SR algorithms on RefSR dataset
-![figure1](/figures/compare_1.PNG)
+This table shows the comparison among different video SR algorithms.
+![figure1](/figure/table.PNG)
 
 ## compare with state-of-the-art
-This figure shows the facial identity transfer on RefSR dataset
-![figure2](/figures/compare_2.PNG)
+This figure shows the running time comparison.
+![figure2](/figure/time.PNG)
+
+## compare with state-of-the-art
+This figure shows the visual comparison.
+![figure3](/figure/compare.PNG)
 
 Please cite our paper for using our dataset or models.
