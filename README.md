@@ -39,14 +39,12 @@ The complete architecture is shown as follows,
 
 # Implementation
 You can download the pre-trained models from:
-https://connectpolyu-my.sharepoint.com/:f:/g/personal/16903300r_connect_polyu_hk/EvwpX5r_nEFJvRju_UqlnJ8BrU45WT2AMKBbmN7PIBkt9g?e=lHsaqG
+https://drive.google.com/file/d/1N_3AYEhKCgItjdyvijzCLXLPrTVzqh2X/view?usp=sharing
 
 
-For RefSR-VAE, 
-run RefSR_VAE.ipynb
+For STCNN
 
-For SISR-VAE,
-run VAE-SR.ipynv
+run ST-CNN_test.ipynv
 
 # Visual Comparison
 
